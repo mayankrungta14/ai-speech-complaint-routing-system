@@ -1,0 +1,17 @@
+- [ ] Set up project structure
+  - [ ] Create `grievance_portal` directory
+  - [ ] Initialize Next.js frontend
+  - [ ] Initialize FastAPI backend
+- [ ] Backend Implementation
+  - [ ] Setup virtual environment and dependencies
+  - [ ] Create database models (SQLite)
+  - [ ] Implement AI mock services for translation and department classification
+  - [ ] Create REST API endpoints (create complaint, get complaint status)
+- [ ] Frontend Implementation
+  - [ ] Install necessary UI libraries (e.g., Tailwind, lucide-react)
+  - [ ] Create Audio Recorder component (using Web Speech API or MediaRecorder)
+  - [ ] Build landing page (Submit complaint)
+  - [ ] Build complaint tracking page
+- [ ] Integration and Testing
+  - [ ] Connect frontend to backend API
+  - [ ] Test end-to-end flow
